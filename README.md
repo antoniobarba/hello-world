@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Test repo
+This is a test repo to get used to git.
